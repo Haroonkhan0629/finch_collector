@@ -33,7 +33,7 @@ Finch-Collector is an app that incorporates UX Design principles and includes va
 * Users can attribute images for each data
 
 ## <a name="nextsteps"></a>Project Next Steps
-* User Specific Data: If the app is edited, the data will specifically be saved to the current user account.
+* Media Queries: Allow users to access application on smaller devices.
 
 ## <a name="deployment"></a>Project Links
 * [Application/Website](https://finch-collector-a586.onrender.com)
