@@ -23,7 +23,7 @@ Finch-Collector is an app that incorporates UX Design principles and includes va
 * DOTENV
 
 ## <a name="features"></a>Features
-* UX Design
+* UX/UI Design
 * Users can navigate through data
 * Users can create data
 * Users can edit data
